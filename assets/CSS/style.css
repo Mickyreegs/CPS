@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+/* General style rules */
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
 /* Header Content */
 header{
     background-color: aqua;
@@ -13,6 +20,11 @@ header{
 /* Main Content */
 main{
     background-color: whitesmoke;
+    flex: 1 0 auto;
+}
+
+h1, h2, h3{
+    text-transform: uppercase;
 }
 
 /* Footer Content */
