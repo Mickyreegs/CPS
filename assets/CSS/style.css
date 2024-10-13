@@ -125,19 +125,20 @@ footer{
     }
 
     #logo{
-        line-height: 40px;
+        line-height: 60px;
         margin: 0 0.5rem;
+        font-size: 280%;
     }
 
     main{
-        margin-top: 106px;
+        margin-top: 140px;
     }
 }
 
-/* Media query - Tablets and above (1024px) */
-@media screen and (min-width: 1024px) {
+/* Media query - Tablets and above (1200px) */
+@media screen and (min-width: 1200px) {
     /* Header */
     main{
-        margin-top: 82px;
+        margin-top: 90px;
     }
 }
