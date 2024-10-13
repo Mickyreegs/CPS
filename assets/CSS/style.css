@@ -123,4 +123,21 @@ footer{
     .nav-toggle-label{
         display: none;
     }
+
+    #logo{
+        line-height: 40px;
+        margin: 0 0.5rem;
+    }
+
+    main{
+        margin-top: 106px;
+    }
+}
+
+/* Media query - Tablets and above (1024px) */
+@media screen and (min-width: 1024px) {
+    /* Header */
+    main{
+        margin-top: 82px;
+    }
 }
