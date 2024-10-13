@@ -13,12 +13,16 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    font-family: 'Kanit' sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 /* Header Content */
 header{
     background-color: aqua;
+}
+
+h1{
+    font-family: 'kanit';
 }
 
 /* Main Content */
