@@ -140,5 +140,6 @@ footer{
     li:hover{
         background-color: whitesmoke;
         color: #000000;
+        border-radius: 10px;
     }
 }
