@@ -53,11 +53,6 @@ li{
     text-align: center;
 }
 
-li:hover{
-    background-color: whitesmoke;
-    color: #000000;
-}
-
 /* NAV styles and dropdown menu */
 nav{
     position: absolute;
@@ -135,10 +130,15 @@ footer{
     }
 }
 
-/* Media query - Tablets and above (1200px) */
-@media screen and (min-width: 1200px) {
+/* Media query - Small laptops and above (1028px) */
+@media screen and (min-width: 1028px) {
     /* Header */
     main{
         margin-top: 90px;
+    }
+
+    li:hover{
+        background-color: whitesmoke;
+        color: #000000;
     }
 }
