@@ -88,6 +88,7 @@ nav{
 main{
     background-color: whitesmoke;
     flex: 1 0 auto;
+    margin-top: 166px;
 }
 
 h1, h2, h3{
@@ -97,4 +98,29 @@ h1, h2, h3{
 /* Footer Content */
 footer{
     background-color: gray;
+}
+
+/* Media query - Tablets and above (768px) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav{
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+
+    }
+
+    #menu{
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label{
+        display: none;
+    }
 }
