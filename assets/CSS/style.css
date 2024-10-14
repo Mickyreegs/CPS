@@ -103,8 +103,10 @@ h1, h2, h3{
     position: absolute;
     top: 35px;
     width: 75%;
-    min-height: 80px;
+    min-height: px;
     padding: 20px;
+    border-radius: 20px;
+    color: whitesmoke;
 }
 
 /* Footer Content */
@@ -166,6 +168,11 @@ footer{
         width: 100%;
         background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
         position: relative;
+    }
+
+    #image-text{
+        width: 400px;
+        left: 50px;
     }
 }
 
