@@ -90,6 +90,13 @@ h1, h2, h3{
     text-transform: uppercase;
 }
 
+#primary-image{
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
+    position: relative;
+}
+
 /* Footer Content */
 footer{
     background-color: #000000;
@@ -156,5 +163,12 @@ footer{
         background-color: whitesmoke;
         color: #000000;
         border-radius: 10px;
+    }
+
+    #primary-image{
+        height: 800px;
+        width: 100%;
+        background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
+        position: relative;
     }
 }
