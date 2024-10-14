@@ -91,7 +91,7 @@ h1, h2, h3{
 }
 
 #primary-image{
-    height: 600px;
+    height: 620.81px;
     width: 100%;
     background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
     position: relative;
@@ -149,6 +149,13 @@ footer{
 
     main{
         margin-top: 140px;
+    }
+
+    #primary-image{
+        height: 646.81px;
+        width: 100%;
+        background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
+        position: relative;
     }
 }
 
