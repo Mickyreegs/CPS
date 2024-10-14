@@ -91,10 +91,20 @@ h1, h2, h3{
 }
 
 #primary-image{
-    height: 620.81px;
+    height: 500px;
     width: 100%;
     background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
     position: relative;
+}
+
+#image-text{
+    background-color: rgba(211, 190, 25, 0.5);
+    font-size: 150%;
+    position: absolute;
+    top: 35px;
+    width: 75%;
+    min-height: 80px;
+    padding: 20px;
 }
 
 /* Footer Content */
