@@ -110,6 +110,33 @@ h1, h2, h3{
     letter-spacing: 1px;
 }
 
+/* Home Page Info */
+#cps-info{
+    background-color: rgba(211, 190, 25, 0.5);
+    padding: 10px;
+    text-align: center;
+}
+
+#cps-info p{
+    margin: auto;
+    padding: 5px;
+    line-height: 20px;
+}
+
+#cps-info hr{
+    margin: auto;
+}
+
+#cps-info div{
+    width: 100%;
+    margin-bottom: 10px;
+    border: gray 2px solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+
+
 /* Footer Content */
 footer{
     background-color: #000000;
@@ -177,8 +204,8 @@ footer{
     }
 }
 
-/* Media query - Small laptops and above (1028px) */
-@media screen and (min-width: 1028px) {
+/* Media query - Small laptops and above (1020px) */
+@media screen and (min-width: 1020px) {
     /* Header */
     main{
         margin-top: 90px;
@@ -196,4 +223,19 @@ footer{
         background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
         position: relative;
     }
+
+    #cps-info{
+        display: flex;
+    }
+
+    #cps-info > div{
+        width: 45%;
+        margin-bottom: 10px;
+        border: gray 2px solid;
+        border-radius: 20px;
+        flex-wrap: wrap;
+    }
+
+    
+
 }
