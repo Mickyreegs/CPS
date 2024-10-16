@@ -115,6 +115,8 @@ h1, h2, h3{
     background-color: rgba(211, 190, 25, 0.5);
     padding: 10px;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 #cps-info p{
@@ -128,11 +130,13 @@ h1, h2, h3{
 }
 
 #cps-info div{
-    width: 100%;
     margin-bottom: 10px;
     border: gray 2px solid;
     border-radius: 20px;
     background-color: whitesmoke;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
 }
 
 
@@ -224,18 +228,5 @@ footer{
         position: relative;
     }
 
-    #cps-info{
-        display: flex;
-    }
-
-    #cps-info > div{
-        width: 45%;
-        margin-bottom: 10px;
-        border: gray 2px solid;
-        border-radius: 20px;
-        flex-wrap: wrap;
-    }
-
-    
 
 }
