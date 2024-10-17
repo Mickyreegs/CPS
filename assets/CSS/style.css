@@ -213,6 +213,8 @@ footer{
     /* Header */
     main{
         margin-top: 119px;
+        flex-basis: 200px;
+        flex-grow: 1;
     }
 }
 
