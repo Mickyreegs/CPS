@@ -123,6 +123,7 @@ h1, h2, h3{
     margin: auto;
     padding: 5px;
     line-height: 20px;
+    text-align: justify;
 }
 
 #cps-info hr{
@@ -206,6 +207,7 @@ footer{
         width: 400px;
         left: 50px;
     }
+    
 }
 
 /* Media query - Small laptops and above (1020px) */
