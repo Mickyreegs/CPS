@@ -208,6 +208,14 @@ footer{
     color: whitesmoke;
 }
 
+/* Media query - Small laptops and above (425px) */
+@media screen and (min-width: 425px) {
+    /* Header */
+    main{
+        margin-top: 119px;
+    }
+}
+
 /* Media query - Tablets and above (768px) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -260,7 +268,7 @@ footer{
 @media screen and (min-width: 1020px) {
     /* Header */
     main{
-        margin-top: 90px;
+        margin-top: 140px;
     }
 
     li:hover{
@@ -277,4 +285,12 @@ footer{
     }
 
 
+}
+
+/* Media query - Small laptops and above (1440px) */
+@media screen and (min-width: 1440px) {
+    /* Header */
+    main{
+        margin-top: 90px;
+    }
 }
