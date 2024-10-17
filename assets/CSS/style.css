@@ -53,6 +53,10 @@ li{
     text-align: center;
 }
 
+.active{
+    border-bottom: 1px solid #000000;
+}
+
 /* NAV styles and dropdown menu */
 nav{
     position: absolute;
