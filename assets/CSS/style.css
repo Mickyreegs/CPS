@@ -254,6 +254,7 @@ footer{
         font-size: 280%;
     }
 
+    /* Main Content */
     main{
         margin-top: 140px;
     }
@@ -270,11 +271,17 @@ footer{
         left: 50px;
     }
 
+    /* Main Content Classes */
+    .photos{
+        column-count: 2;
+        column-gap: 0;
+    }
     #classes-image-text{
         width: 400px;
         left: 50px;
     }
 
+    /* Main Content Contact */
     #contact-image-text{
         width: 400px;
         left: 50px;
