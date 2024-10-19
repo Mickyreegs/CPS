@@ -119,6 +119,11 @@ h1, h2, h3{
 /* Main content Classes */
 #classes-styles img{
     width: 100%;
+    line-height: 1em;
+}
+
+.photos{
+    line-height: 0;
 }
 
 #classes-image-text{
