@@ -127,13 +127,22 @@ h1, h2, h3{
     background-color: rgba(211, 190, 25, 0.5);
     font-size: 100%;
     position: absolute;
-    top: 200px;
+    top: 300px;
     width: 100%;
     min-height: px;
     padding: 20px;
     border-radius: 20px;
-    color: whitesmoke;
+    color: #000000;
     letter-spacing: 1px;
+}
+
+table, th, td{
+    border: 2px solid #000000;
+    background-color: whitesmoke;
+}
+
+#table{
+    flex: 1 0 auto;
 }
 
 
