@@ -117,27 +117,25 @@ h1, h2, h3{
 }
 
 /* Main content Classes */
-#classes-styles img{
+#classes-image{
+    height: 600px;
     width: 100%;
-    line-height: 1em;
+    background: url(../images/pexels-cottonbro-4087992.jpg) no-repeat center center/cover;
+    position: relative;
 }
-
-.photos{
-    line-height: 0;
-}
-
-#classes-image-text{
+#weekly-schedule{
     background-color: rgba(211, 190, 25, 0.5);
-    font-size: 150%;
+    font-size: 100%;
     position: absolute;
-    top: 35px;
-    width: 85%;
+    top: 200px;
+    width: 100%;
     min-height: px;
     padding: 20px;
     border-radius: 20px;
     color: whitesmoke;
     letter-spacing: 1px;
 }
+
 
 /* Main content Contact */
 #contact-image{
