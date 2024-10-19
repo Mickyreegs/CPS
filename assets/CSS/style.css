@@ -116,11 +116,9 @@ h1, h2, h3{
     letter-spacing: 1px;
 }
 
-#classes-image{
-    height: 500px;
+/* Main content Classes */
+#classes-styles img{
     width: 100%;
-    background: url(../images/pexels-anna-pou-8132435.jpg) no-repeat center center/cover;
-    position: relative;
 }
 
 #classes-image-text{
@@ -136,6 +134,7 @@ h1, h2, h3{
     letter-spacing: 1px;
 }
 
+/* Main content Contact */
 #contact-image{
     height: 700px;
     width: 100%;
