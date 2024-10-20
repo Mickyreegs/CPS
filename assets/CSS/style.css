@@ -361,6 +361,11 @@ footer{
         margin-top: 250px;
     }
 
+    #radio{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
     
 }
 
