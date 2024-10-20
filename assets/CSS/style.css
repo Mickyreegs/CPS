@@ -302,10 +302,12 @@ footer{
     }
 
     /* Main Content Classes */
-    .photos{
-        column-count: 2;
-        column-gap: 0;
+    #form{
+        left: 50px;
+        max-width: 600px;
+        margin-top: 250px;
     }
+
     #classes-image-text{
         width: 400px;
         left: 50px;
