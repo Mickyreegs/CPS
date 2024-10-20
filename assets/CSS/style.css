@@ -343,8 +343,8 @@ footer{
     /* Main Content Classes */
     #table{
         width: 85%;
-        height: 400px;
-        font-size: 150%;
+        height: 300px;
+        font-size: 125%;
     }
 
     #weekly-schedule{
