@@ -118,7 +118,7 @@ h1, h2, h3{
 
 /* Main Content Classes */
 #classes-image{
-    height: 600px;
+    height: 700px;
     width: 100%;
     background: url(../images/pexels-cottonbro-4087992.jpg) no-repeat center center/cover;
     position: relative;
@@ -180,7 +180,7 @@ table, th, td{
     border-radius: 20px;
     position: absolute;
     margin-top: 280px;
-    letter-spacing: 1px;    
+    letter-spacing: 1px;  
 }
 
 .text-input{
@@ -191,9 +191,6 @@ table, th, td{
     padding: 0 5px;
     border: 2px solid whitesmoke;
 }
-
-
-
 
 /* Home Page Info */
 #cps-info{
