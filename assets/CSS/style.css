@@ -118,7 +118,7 @@ h1, h2, h3{
 
 /* Main Content Classes */
 #classes-image{
-    height: 700px;
+    height: 600px;
     width: 100%;
     background: url(../images/pexels-cottonbro-4087992.jpg) no-repeat center center/cover;
     position: relative;
@@ -210,6 +210,16 @@ table, th, td{
     text-align: center;
     flex-basis: 200px;
     flex-grow: 1;
+}
+
+#contact-info p{
+    margin: auto;
+    padding: 5px;
+    line-height: 20px;
+}
+
+#contact-info hr{
+    margin: auto;
 }
 
 /* Home Page Info */
