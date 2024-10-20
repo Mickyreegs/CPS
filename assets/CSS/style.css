@@ -173,13 +173,15 @@ table, th, td{
 
 #form{
     background-color: rgba(211, 190, 25, 0.5);
-    background-size: 75%;
+    width: 85%;
     color: whitesmoke;
-    padding: 15px;
+    padding: 5px;
     border-radius: 20px;
     position: absolute;
     margin-top: 300px;
+    letter-spacing: 1px;
 }
+
 
 
 
