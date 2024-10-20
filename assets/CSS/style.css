@@ -123,6 +123,7 @@ h1, h2, h3{
     background: url(../images/pexels-cottonbro-4087992.jpg) no-repeat center center/cover;
     position: relative;
 }
+
 #weekly-schedule{
     background-color: rgba(211, 190, 25, 0.5);
     font-size: 100%;
@@ -302,10 +303,19 @@ footer{
     }
 
     /* Main Content Classes */
-    #form{
+    #table{
+        width: 85%;
+        height: 400px;
+        font-size: 150%;
+    }
+
+    #weekly-schedule{
+        background-color: rgba(211, 190, 25, 0.5);
+        position: absolute;
+        top: 250px;
+        width: 85%;
         left: 50px;
-        max-width: 600px;
-        margin-top: 250px;
+
     }
 
     #classes-image-text{
@@ -319,6 +329,11 @@ footer{
         left: 50px;
     }
 
+    #form{
+        left: 50px;
+        max-width: 600px;
+        margin-top: 250px;
+    }
 
     
 }
