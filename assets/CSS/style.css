@@ -361,6 +361,10 @@ footer{
         left: 50px;
     }
 
+    #classes-image{
+        background: url(../images/pexels-rdne-8198158.jpg) no-repeat center center/cover;
+    }
+
     /* Main Content Contact */
     #contact-image-text{
         width: 400px;
