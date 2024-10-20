@@ -85,7 +85,7 @@ nav{
 }
 
 
-/* Main Content Index*/
+/* Main content index.html*/
 main{
     background-color: whitesmoke;
     flex: 1 0 auto;
@@ -116,7 +116,37 @@ h1, h2, h3{
     letter-spacing: 1px;
 }
 
-/* Main Content Classes */
+/* Home Page Info index.html */
+#cps-info{
+    background-color: rgba(211, 190, 25, 0.5);
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#cps-info p{
+    margin: auto;
+    padding: 5px;
+    line-height: 20px;
+    text-align: justify;
+}
+
+#cps-info hr{
+    margin: auto;
+}
+
+#cps-info div{
+    margin-bottom: 10px;
+    border: gray 2px solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+/* Main content classes.html */
 #classes-image{
     height: 600px;
     width: 100%;
@@ -153,7 +183,7 @@ table, th, td{
 }
 
 
-/* Main Content Contact */
+/* Main content contact.html */
 #contact-image{
     height: 750px;
     width: 100%;
@@ -225,38 +255,6 @@ table, th, td{
 #contact-info hr{
     margin: auto;
 }
-
-/* Home Page Info */
-#cps-info{
-    background-color: rgba(211, 190, 25, 0.5);
-    padding: 10px;
-    text-align: center;
-    display: flex;
-    flex-wrap: wrap;
-}
-
-#cps-info p{
-    margin: auto;
-    padding: 5px;
-    line-height: 20px;
-    text-align: justify;
-}
-
-#cps-info hr{
-    margin: auto;
-}
-
-#cps-info div{
-    margin-bottom: 10px;
-    border: gray 2px solid;
-    border-radius: 20px;
-    background-color: whitesmoke;
-    text-align: center;
-    flex-basis: 200px;
-    flex-grow: 1;
-}
-
-
 
 /* Footer Content */
 footer{
