@@ -148,6 +148,10 @@ table, th, td{
     margin-right: auto;
 }
 
+#samples{
+    background-color: rgba(211, 190, 25, 0.5);
+}
+
 
 /* Main Content Contact */
 #contact-image{
