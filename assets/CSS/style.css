@@ -254,6 +254,13 @@ footer{
         flex-basis: 200px;
         flex-grow: 1;
     }
+
+    table{
+        width: 85%;
+        height: 250px;
+        font-size: 100%;
+    }
+    
 }
 
 /* Media query - Tablets and above (768px) */
