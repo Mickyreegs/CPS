@@ -341,6 +341,16 @@ footer{
         position: relative;
     }
 
+     /* Resize Contact Image */
+     #contact-image{
+        height:800px
+    }
+
+    /* Resize Classes Image */
+    #classes-image{
+        height:800px
+    }
+
 
 }
 
@@ -350,4 +360,6 @@ footer{
     main{
         margin-top: 90px;
     }
+
+   
 }
