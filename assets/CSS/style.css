@@ -180,6 +180,24 @@ table, th, td{
 
 #samples{
     background-color: rgba(211, 190, 25, 0.5);
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#samples div{
+    margin-bottom: 10px;
+    border: gray 2px solid;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+#contact-info hr{
+    margin: auto;
 }
 
 
@@ -357,7 +375,7 @@ footer{
     #weekly-schedule{
         position: absolute;
         top: 250px;
-        width: 95%;
+        width: 85%;
         left: 50px;
     }
 
