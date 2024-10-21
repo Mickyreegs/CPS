@@ -423,8 +423,8 @@ footer{
 
 }
 
-/* Media query - Small laptops and above (1440px) */
-@media screen and (min-width: 1440px) {
+/* Media query - Small laptops and above (1027px) */
+@media screen and (min-width: 1027px) {
     /* Header */
     main{
         margin-top: 90px;
