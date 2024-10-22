@@ -53,6 +53,10 @@ The following websites were used for informational purposes:
     <li>Stack Overflow - https://stackoverflow.com/</li>
     <li>W3 Schools - https://www.w3schools.com/</li>
     <li>Free Code Camp - https://www.freecodecamp.org/</li>
+    <li>Daisie Blog - https://blog.daisie.com/drums-for-folk-practical-guide-expert-tips/</li>
+    <li>Wikipedia - https://en.wikipedia.org/wiki/Heavy_metal_drumming#:~:text=With%20roots%20in%20blues%20rock,guitar%2Dand%2Ddrum%20sound.</li>
+    <li>X8 Drumming - https://www.x8drums.com/blog/reggae-drumming/</li>
+    <li>Freddy Charles Music - https://freddycharlesmusic.com/blogs/news/rock-drumming-for-beginners-how-to-play-rock-on-drums#:~:text=One%20of%20the%20defining%20features,pulse%20that%20permeates%20the%20music.</li>
 </ul>
 
 The following websites were used for audio and visual purposes:
