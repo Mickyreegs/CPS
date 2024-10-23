@@ -9,6 +9,8 @@ To begin, the site can be found at [Cork Percussion School](https://mickyreegs.g
 
 This website was designed for a percussion school in Cork, Ireland.  The aim was to create an eye catching website that will keep users engaged with the use of information, audio, and visual stimulus.  The website is user-friendly and is targeted towards drummers of all levels - Beginner, Intermediate, and Advanced.  The hope is that users generate a sense of excitement and wish to begin their drumming adventure with Cork Percussion School.  The only thing to do then is to go to the contact page and submit your details for a callback.
 
+## Initial Design - Wireframe
+
 ## General Features
 
 ### Responsive Design
@@ -32,15 +34,26 @@ Beneath the image, we see the CPS Information section.  This gives the user info
 ![CPS Info section giving info on the school and classes](image-3.png)
 
 ## The Drum Classes Page
+This page displays the classes and times that certain drum styles are taught during the week.  The overlay text continues on this page with a new drummwer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted.  The background is split between screen sizes.  An image of an orange drum kit is used for smaller devices, but this is switched to a red kit in a studio for devices of 768px and above.  This was due to the fact that the smaller image was stretching too much and did not look as good on larger screens.
+
 
 
 ## The Contact Page
+The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  These are listed as radio buttons on the form.  Below the form, there are 4 further boxes with contact info - Address, Phone, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummwer quote.  The background of a snare drum with drum sticks completes the page.
+
+
+
 
 
 ## Testing
+### HMTL Testing
+
 
 
 ## Deployment
+
+
+## Known Bugs
 
 
 ## Credits

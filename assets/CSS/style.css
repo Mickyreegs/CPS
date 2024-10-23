@@ -103,13 +103,17 @@ h1, h2, h3{
     position: relative;
 }
 
+.invisible-header{
+    visibility: hidden;
+}
+
 #image-text{
     background-color: rgba(211, 190, 25, 0.5);
     font-size: 150%;
     position: absolute;
     top: 35px;
     width: 85%;
-    min-height: px;
+    min-height: 150px;
     padding: 20px;
     border-radius: 20px;
     color: whitesmoke;
@@ -160,7 +164,7 @@ h1, h2, h3{
     position: absolute;
     top: 300px;
     width: 100%;
-    min-height: px;
+    min-height: 150px;
     padding: 20px;
     border-radius: 20px;
     color: #000000;
@@ -219,7 +223,7 @@ table, th, td{
     position: absolute;
     top: 35px;
     width: 85%;
-    min-height: px;
+    min-height: 150px;
     padding: 20px;
     border-radius: 20px;
     color: whitesmoke;
@@ -248,7 +252,7 @@ table, th, td{
     height: 30px;
     margin: 5px 0 10px 0;
     padding: 0 5px;
-    border: 2px solid whitesmoke;
+    border: 2px solid gray;
 }
 
 #contact-info{
