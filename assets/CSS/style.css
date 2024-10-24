@@ -305,7 +305,7 @@ footer{
     color: whitesmoke;
 }
 
-/* Media query - Small laptops and above (425px) */
+/* Media query - Small screen and above (425px) */
 @media screen and (min-width: 425px) {
     /* Header */
     main{
@@ -359,9 +359,6 @@ footer{
 
     #primary-image{
         height: 646.81px;
-        width: 100%;
-        background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
-        position: relative;
     }
 
     #image-text{
