@@ -16,44 +16,95 @@ This website was designed for a percussion school in Cork, Ireland.  The aim was
 ### Responsive Design
 The website was designed using the Mobile First principle and enlarges based on screen size.
 
-![Am I Responive website Image revealing responsiveness across various screen sizes](image.png)
+![Am I Responive website Image revealing responsiveness across various screen sizes](../CPS/assets/readme-images/Am%20I%20Responsive.JPG)
 
-### Consistent Navigation Bar
-The header of the site contains both the Logo and Navigation Bar, which is responsive to various screen sizes.  The design is intuitive, allowing easy access to each page for the user, and employing a consistent design across all pages of the webite.
+### Consistent Navigation Bar & Footer
+The header of the site contains both the Logo and Navigation Bar, which is responsive to various screen sizes.  The footer has links to X, YouTube, Instagram & Facebook and is also consistent across the 3 pages.  The design is intuitive, allowing easy access to each page and social media site for the user, and employing a consistent design across all pages of the webite.
 
-![Navigation bar image from Cork Percussion School webite](image-1.png)
+![Navigation bar image from Cork Percussion School webite](../CPS/assets/readme-images/NAV%20Bar.JPG)
+
+![Navigation bar image from Cork Percussion School webite](../CPS/assets/readme-images/Footer.JPG)
 
 
 ## The Home Page
 Upon opening the home page, you immediately see a photograph of a drum kit in black and white, which includes a quote in the overlay text.  It is an eye catching display with nicely contrasting overlay text to draw the user in. 
 
-![Black and white image of a drum set](image-2.png)
+![Black and white image of a drum set](../CPS/assets/readme-images/pexels-h-thanh-131149238-11018964.jpg)
 
-Beneath the image, we see the CPS Information section.  This gives the user information on the school and 
+Beneath the image, we see the CPS Information section.  This gives the user information and background on the school.
 
-![CPS Info section giving info on the school and classes](image-3.png)
+![CPS Info section giving info on the school and classes](../CPS/assets/readme-images/CPS%20Infor%20Section.JPG)
 
 ## The Drum Classes Page
-This page displays the classes and times that certain drum styles are taught during the week.  The overlay text continues on this page with a new drummwer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted.  The background is split between screen sizes.  An image of an orange drum kit is used for smaller devices, but this is switched to a red kit in a studio for devices of 768px and above.  This was due to the fact that the smaller image was stretching too much and did not look as good on larger screens.
+This page displays the classes and times that certain drum styles are taught during the week.  
 
+![Drum classes table](../CPS/assets/readme-images/Table.JPG)
 
+The overlay text continues on this page with a new drummwer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted. All of this is to give the user a more informed view of the courses and drum styles on offer.
+
+![Audio samples & style description](../CPS/assets/readme-images/Samples%20&%20Description.JPG)
+
+The background is split between screen sizes.  An image of an orange drum kit is used for smaller devices, but this is switched to a red kit in a studio for devices of 768px and above.  This was due to the fact that the smaller image was stretching too much and did not look as good on larger screens.  It also adds another layer of design that can be appreciated by users on different screen sizes.
+
+![Background image below 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Smaller%20Screens.JPG)
+
+![Background image below 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
 
 ## The Contact Page
-The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  These are listed as radio buttons on the form.  Below the form, there are 4 further boxes with contact info - Address, Phone, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummwer quote.  The background of a snare drum with drum sticks completes the page.
+The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  These are listed as radio buttons on the form.
+
+![User contact form](../CPS/assets/readme-images/Form.JPG)
+
+Below the form, there are 4 further boxes with contact info - Address, Phone, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummwer quote.  
+
+![Contact details and supplies info](../CPS/assets/readme-images/Contact%20Details.JPG)
+
+The background of a snare drum with drum sticks completes the page.
+
+![Snare drum image with broken drum sticks](../CPS/assets/readme-images/pexels-abednego-241687.jpg)
 
 
 
 
 
 ## Testing
-### HMTL Testing
+All 3 pages were put through the HTML validator tool and passed:
 
+![HTML validator checks](../CPS/assets/readme-images/HTML%20Check%20After.JPG)
 
+The CSS cose also passed the CSS validator test:
 
-## Deployment
+![CSS validator checks](../CPS/assets/readme-images/CSS%20code%20validation%20-%20After.JPG)
 
+Bugs that were discovered and fixed are as follows:
+<ul>
+    <li>Error 404 (HTML)</li>
+    This was fixed by amending the relative filepaths in the html code pages.
+    <li>Duplicate IDs (HTML)</li>
+    This was fixed by removing the duplicate from the HEAD.
+    <li>No Section Heading (HTML)</li>
+    This was evident on the background images of all 3 pages.  It was fixed by adding a heading to each page's section and using the invisibility styling in CSS to hide it.
+    <li>No P Element In Scope (HTML)</li>
+    The /P tag was incorrectly placed in the section and repositioned to it's correct location.
+    <li>Value Error: min-height (CSS)</li>
+    The min-height element of the text boxes was not initially set and left blank in error.  This was fixed by giving them all a value of 150px.
+    <li>.text-input Styling (CSS)</li>
+    The background and border colours were initially set to whitesmoke.  As this clashed, the border was updated to gray in keeping with other border styles.
+</ul>
+
+![HTML errors](../CPS/assets/readme-images/Initial%20HTML%20Test.JPG)
+
+![CSS errors](../CPS/assets/readme-images/Initial%20CSS%20Test.JPG)
+
+![Error 404](../CPS/assets/readme-images/Error%20404.JPG)
 
 ## Known Bugs
+1 bug remains on the site that we are aware of - On Safari, the audio controls do not allow the user to unmute, and so the user cannot experience the audio from each style.
+We hope that in the future we can rectify this using HTML code that is compatible with Apple products.
+
+![Safari Controls](../CPS/assets/readme-images/Safari%20Controls%20Bug.JPG)
+
+## Deployment
 
 
 ## Credits
