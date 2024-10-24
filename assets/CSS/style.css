@@ -423,10 +423,7 @@ footer{
     }
 
     #primary-image{
-        height: 800px;
-        width: 100%;
-        background: url(../images/pexels-h-thanh-131149238-11018964.jpg) no-repeat center center/cover;
-        position: relative;
+        height: 650px;
     }
 
      /* Resize Contact Image */
@@ -436,7 +433,7 @@ footer{
 
     /* Resize Classes Image */
     #classes-image{
-        height:800px
+        height:650px
     }
 
 
