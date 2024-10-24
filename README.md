@@ -64,6 +64,7 @@ The background of a snare drum with drum sticks completes the page.
 ![Snare drum image with broken drum sticks](../CPS/assets/readme-images/pexels-abednego-241687.jpg)
 
 ## Testing
+### Code Validation
 All 3 pages were put through the HTML validator tool and passed:
 
 ![HTML validator checks](../CPS/assets/readme-images/HTML%20Check%20After.JPG)
@@ -72,6 +73,17 @@ The CSS cose also passed the CSS validator test:
 
 ![CSS validator checks](../CPS/assets/readme-images/CSS%20code%20validation%20-%20After.JPG)
 
+### Browser Performance
+All three pages performed well on the below browsers:
+<ul>
+    <li>Google Chrome</li>
+    <li>Microsoft Edge</li>
+    <li>Mozilla Firefox</li>    
+    <li>Safari</li>
+</ul>
+The Mozilla Firefox audio controls are not as aesthetically pleasing as they are in Chrome and Edge.
+
+### Bug Fixes
 Bugs that were discovered and fixed are as follows:
 <ul>
     <li>Error 404 (HTML)</li>
