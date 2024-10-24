@@ -134,29 +134,44 @@ A point to note:
 ## Credits
 The following websites were used for informational purposes:
 <ul>
-    <li>Drum Set Tips - https://drumsettips.org/bossa-nova-drum-style-latin-drum-set-beats/#:~:text=The%20Bossa%20Nova%20bass%20line,it%20as%20a%20Brazilian%20Clave.</li>
-    <li>Wikipedia - https://en.wikipedia.org/wiki/Funk#:~:text=Funk%20drumming%20creates%20a%20groove,of%20fills%20(as%20they%20can)</li>
-    <li>Wikipedia - https://en.wikipedia.org/wiki/Jazz_drumming#:~:text=Jazz%20drumming%20is%20the%20art,and%201980s%2Dera%20Latin%20jazz.</li>
-    <li>BetaMonkey - https://www.betamonkey.com/a-closer-look-at-blues-drum-loops-and-blues-drumming-styles/#:~:text=Playing%20deep%20in%20the%20pocket,exactly%20where%20the%20groove%20is.</li>
-    <li>Stack Overflow - https://stackoverflow.com/</li>
-    <li>W3 Schools - https://www.w3schools.com/</li>
-    <li>Free Code Camp - https://www.freecodecamp.org/</li>
-    <li>Daisie Blog - https://blog.daisie.com/drums-for-folk-practical-guide-expert-tips/</li>
-    <li>Wikipedia - https://en.wikipedia.org/wiki/Heavy_metal_drumming#:~:text=With%20roots%20in%20blues%20rock,guitar%2Dand%2Ddrum%20sound.</li>
-    <li>X8 Drumming - https://www.x8drums.com/blog/reggae-drumming/</li>
-    <li>Freddy Charles Music - https://freddycharlesmusic.com/blogs/news/rock-drumming-for-beginners-how-to-play-rock-on-drums#:~:text=One%20of%20the%20defining%20features,pulse%20that%20permeates%20the%20music.</li>
+    <li>Drum Set Tips</li>
+    https://drumsettips.org/bossa-nova-drum-style-latin-drum-set-beats/#:~:text=The%20Bossa%20Nova%20bass%20line,it%20as%20a%20Brazilian%20Clave.
+    <li>Wikipedia</li>
+    https://en.wikipedia.org/wiki/Funk#:~:text=Funk%20drumming%20creates%20a%20groove,of%20fills%20(as%20they%20can)
+    https://en.wikipedia.org/wiki/Jazz_drumming#:~:text=Jazz%20drumming%20is%20the%20art,and%201980s%2Dera%20Latin%20jazz.
+    https://en.wikipedia.org/wiki/Heavy_metal_drumming#:~:text=With%20roots%20in%20blues%20rock,guitar%2Dand%2Ddrum%20sound.
+    <li>BetaMonkey</li>
+    https://www.betamonkey.com/a-closer-look-at-blues-drum-loops-and-blues-drumming-styles/#:~:text=Playing%20deep%20in%20the%20pocket,exactly%20where%20the%20groove%20is.
+    <li>Stack Overflow</li>
+    https://stackoverflow.com/
+    <li>W3 Schools</li>
+    https://www.w3schools.com/
+    <li>Free Code Camp</li>
+    https://www.freecodecamp.org/
+    <li>Daisie Blog</li>
+    https://blog.daisie.com/drums-for-folk-practical-guide-expert-tips/
+    <li>X8 Drumming</li>
+    https://www.x8drums.com/blog/reggae-drumming/
+    <li>Freddy Charles Music</li>
+    https://freddycharlesmusic.com/blogs/news/rock-drumming-for-beginners-how-to-play-rock-on-drums#:~:text=One%20of%20the%20defining%20features,pulse%20that%20permeates%20the%20music.
 </ul>
 
 The following websites were used for audio and visual purposes:
 <ul>
-    <li>Wikiloops - https://www.wikiloops.com/tracks/Drums.php?scope=2</li>
-    <li>Font Awesome - https://fontawesome.com/</li>
-    <li>Google Fonts - https://fonts.google.com/</li>
-    <li>Favicon - https://favicon.io/emoji-favicons/drum/</li>
-    <li>Pexels - https://www.pexels.com/search/drumming/</li>
+    <li>Wikiloops</li>
+    https://www.wikiloops.com/tracks/Drums.php?scope=2
+    <li>Font Awesome</li>
+    https://fontawesome.com/
+    <li>Google Fonts</li>
+    https://fonts.google.com/
+    <li>Favicon</li>
+    https://favicon.io/emoji-favicons/drum/
+    <li>Pexels</li>
+    https://www.pexels.com/search/drumming/
 </ul>
 
 The following projects were used as a reference guide to build this website:
 <ul>
-    <li>Love Running - Code Institute Essentials Project</li>
+    <li>Love Running</li>
+    Code Institute Essentials Project
 </ul>
