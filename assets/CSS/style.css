@@ -241,7 +241,7 @@ table, th, td{
     letter-spacing: 1px;  
 }
 
-#radio{
+.radio{
     font-size: 115%;
     margin-bottom: 10px;
 }
