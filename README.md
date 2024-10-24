@@ -63,10 +63,6 @@ The background of a snare drum with drum sticks completes the page.
 
 ![Snare drum image with broken drum sticks](../CPS/assets/readme-images/pexels-abednego-241687.jpg)
 
-
-
-
-
 ## Testing
 All 3 pages were put through the HTML validator tool and passed:
 
@@ -105,7 +101,23 @@ We hope that in the future we can rectify this using HTML code that is compatibl
 ![Safari Controls](../CPS/assets/readme-images/Safari%20Controls%20Bug.JPG)
 
 ## Deployment
+The site was deployed through GitHub.  The steps taken were:
+<ul>
+    <li>Go to settings</li>
+    <li>Select pages and apply "Deploy from branch" on the Source dropdown</li>
+    <li>Our branch is set to "main" with "/root" as the folder</li>
+</ul>
 
+![GitHub Deployment](../CPS/assets/readme-images/Deployment.JPG)
+
+The site can be reached at https://mickyreegs.github.io/CPS/
+
+![GitHub Deployment site](../CPS/assets/readme-images/Deployment%202.JPG)
+
+A point to note:
+<ul>
+    <li>It was noted by my mentor that my commit messages were inconsistent to begin with.  Some messages began with a capital letter while other were all in lower-case.  Also, it was highlighted that I was not using the imperative on all commit messages.  From that point on, all messages stared with a capital letter and used the imperative sentence structure.  As a result, the version control, and quality of messages, improved.</li>
+</ul>
 
 ## Credits
 The following websites were used for informational purposes:
