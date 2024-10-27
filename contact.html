@@ -63,39 +63,19 @@
 
                     <div>
                         <h3>What style interests you most?</h3>
-                        <div class="radio">
-                            <div>
-                                <input type="radio" name="style" id="blues" value="blues" required>
-                                <label for="blues">Blues</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="bossanova" value="bossanova" required>
-                                <label for="bossanova">BossaNova</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="folk" value="folk" required>
-                                <label for="folk">Folk</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="funk" value="funk" required>
-                                <label for="funk">Funk</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="jazz" value="jazz" required checked>
-                                <label for="jazz">Jazz</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="metal" value="metal" required>
-                                <label for="metal">Metal</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="reggae" value="reggae" required>
-                                <label for="reggae">Reggae</label>
-                            </div>
-                            <div>
-                                <input type="radio" name="style" id="rock" value="rock" required>
-                                <label for="rock">Rock</label>
-                            </div>
+                        <div class="dropdown">
+                            <select name="drum-style" id="drum-style" required>
+                                <option value=""></option>
+                                <option value="unsure">Unsure</option>
+                                <option value="blues">Blues</option>
+                                <option value="bossa nova">Bossa Nova</option>
+                                <option value="folk">Folk</option>
+                                <option value="funk">Funk</option>
+                                <option value="jazz">Jazz</option>
+                                <option value="metal">Metal</option>
+                                <option value="reggae">Reggae</option>
+                                <option value="rock">Rock</option>
+                            </select>
                         </div>
                     </div>
                     <button type="submit" class="submit-form">

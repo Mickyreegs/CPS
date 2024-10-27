@@ -7,8 +7,8 @@ To begin, the site can be found at [Cork Percussion School](https://mickyreegs.g
 
 ## Cork Percussion School
 
-This website was designed for a percussion school in Cork, Ireland.  The aim was to create an eye catching website that will keep users engaged with the use of information, audio, and visual stimulus.  The website is user-friendly and is targeted towards drummers of all levels - Beginner, Intermediate, and Advanced.  The hope is that users generate a sense of excitement and wish to begin their drumming adventure with Cork Percussion School.  The only thing to do then is to go to the contact page and submit your details for a callback.
-As a prospective percussion student,  I want to navigate this site to learn more about the school and the classes on offer so that I can make an informed decision as to whether or not I will pursue education in percussion.
+This website was designed for a percussion school in Cork, Ireland.  The aim was to create an eye catching website that will keep users engaged with the use of information, audio, and visual stimulus.  The website is user-friendly, easily navigated, and is targeted towards drummers of all levels - Beginner, Intermediate, and Advanced.
+As a prospective percussion student,  I want to navigate this site to learn more about the school and the classes on offer so that I can make an informed decision as to whether or not I will pursue education in percussion.  I can get info on the school from the home page.  I can get info on classes and styles on the drum classes page.  I can get info on how to contact the school on the contact page.
 
 ## Initial Design - Wireframe
 The initial design idea was one where an image dominates the screen but the page is easily navigated and contains the info relevant to that page.  Each page contains a large background image, with informational text and audio placed below the image.  Inspirational quotes will be layered on top of the image, along with a table of classes on the classes.html page and a form on the contact.html page.
@@ -30,7 +30,7 @@ The website was designed using the Mobile First principle and enlarges based on 
 ![Am I Responive website Image revealing responsiveness across various screen sizes](../CPS/assets/readme-images/Am%20I%20Responsive.JPG)
 
 ### Consistent Navigation Bar & Footer
-The header of the site contains both the Logo and Navigation Bar, which is responsive to various screen sizes.  The footer has links to X, YouTube, Instagram & Facebook and is also consistent across the 3 pages.  The design is intuitive, allowing easy access to each page and social media site for the user, and employing a consistent design across all pages of the webite.
+The header of the site contains both the Logo and Navigation Bar, which is responsive to various screen sizes.  The footer has links to X, YouTube, Instagram & Facebook and is also consistent across the 3 pages.  The design is intuitive, allowing easy access to each page and social media site for the user, while employing a consistent design across all pages of the webite.
 
 ![Navigation bar image from Cork Percussion School webite](../CPS/assets/readme-images/NAV%20Bar.JPG)
 
@@ -57,8 +57,10 @@ The overlay text continues on this page with a new drummer quote.  Users get an 
 
 The background is split between screen sizes.  An image of an orange drum kit is used for smaller devices, but this is switched to a red kit in a studio for devices of 768px and above.  This was due to the fact that the smaller image was stretching too much and did not look as good on larger screens.  It also adds another layer of design that can be appreciated by users on different screen sizes.
 
+### Below 768px
 ![Background image below 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Smaller%20Screens.JPG)
 
+### Above 768px
 ![Background image above 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
 
 ## The Contact Page

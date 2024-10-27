@@ -241,7 +241,7 @@ table, th, td{
     letter-spacing: 1px;  
 }
 
-.radio{
+.dropdown{
     font-size: 115%;
     margin-bottom: 10px;
 }
@@ -249,6 +249,15 @@ table, th, td{
 .text-input{
     background: whitesmoke;
     width: 100%;
+    height: 30px;
+    margin: 5px 0 10px 0;
+    padding: 0 5px;
+    border: 2px solid gray;
+}
+
+#drum-style{
+    background: whitesmoke;
+    width: 50%;
     height: 30px;
     margin: 5px 0 10px 0;
     padding: 0 5px;
