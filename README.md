@@ -8,6 +8,7 @@ To begin, the site can be found at [Cork Percussion School](https://mickyreegs.g
 ## Cork Percussion School
 
 This website was designed for a percussion school in Cork, Ireland.  The aim was to create an eye catching website that will keep users engaged with the use of information, audio, and visual stimulus.  The website is user-friendly, easily navigated, and is targeted towards drummers of all levels - Beginner, Intermediate, and Advanced.
+
 As a prospective percussion student,  I want to navigate this site to learn more about the school and the classes on offer so that I can make an informed decision as to whether or not I will pursue education in percussion.  I can get info on the school from the home page.  I can get info on classes and styles on the drum classes page.  I can get info on how to contact the school on the contact page.
 
 ## Initial Design - Wireframe
