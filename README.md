@@ -107,6 +107,8 @@ Bugs that were discovered and fixed are as follows - Screenshots are added below
     This was evident on the background images of all 3 pages.  It was fixed by adding a heading to each page's section and using the invisibility styling in CSS to hide it.
     <li>No P Element In Scope (HTML)</li>
     The /P tag was incorrectly placed in the section and repositioned to it's correct location.
+    <li>Element without attribute must not be empty (HTML)</li>
+    Label was added to the form and option with value "" had text of Choose From The Following: added to it.
     <li>Value Error: min-height (CSS)</li>
     The min-height element of the text boxes was not initially set and left blank in error.  This was fixed by giving them all a value of 150px.
     <li>.text-input Styling (CSS)</li>
@@ -114,6 +116,8 @@ Bugs that were discovered and fixed are as follows - Screenshots are added below
 </ul>
 
 ![HTML code errors](../CPS/assets/readme-images/Initial%20HTML%20Test.JPG)
+
+![HTML code errors on form](../CPS/assets/readme-images/HTML%20error%20dropdown.JPG)
 
 ![CSS code errors](../CPS/assets/readme-images/Initial%20CSS%20Test.JPG)
 
