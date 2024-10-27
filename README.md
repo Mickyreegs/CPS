@@ -64,7 +64,7 @@ The background is split between screen sizes.  An image of an orange drum kit is
 ![Background image above 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
 
 ## The Contact Page
-The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  These are listed as radio buttons on the form.
+The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  The user is required to select a style from a dropdown list.  
 
 ![User contact form](../CPS/assets/readme-images/Form.JPG)
 
