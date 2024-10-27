@@ -10,6 +10,16 @@ To begin, the site can be found at [Cork Percussion School](https://mickyreegs.g
 This website was designed for a percussion school in Cork, Ireland.  The aim was to create an eye catching website that will keep users engaged with the use of information, audio, and visual stimulus.  The website is user-friendly and is targeted towards drummers of all levels - Beginner, Intermediate, and Advanced.  The hope is that users generate a sense of excitement and wish to begin their drumming adventure with Cork Percussion School.  The only thing to do then is to go to the contact page and submit your details for a callback.
 
 ## Initial Design - Wireframe
+The initial design idea was one where an image dominates the screen but the page is easily navigated and contains the info relevant to that page.  Each page contains a large background image, with informational text and audio placed below the image.  Inspirational quotes will be layered on top of the image, along with a table of classes on the classes.html page and a form on the contact.html page.
+
+### Wireframe of the index.html page
+![Wireframe image of the index.html page](../CPS/assets/readme-images/Wireframe%20index.PNG)
+
+### Wireframe of the classes.html page
+![Wireframe image of the classes.html page](../CPS/assets/readme-images/Wireframe%20classes.PNG)
+
+### Wireframe of the contact.html page
+![Wireframe image of the contact.html page](../CPS/assets/readme-images/Wireframe%20contact.PNG)
 
 ## General Features
 
@@ -23,7 +33,7 @@ The header of the site contains both the Logo and Navigation Bar, which is respo
 
 ![Navigation bar image from Cork Percussion School webite](../CPS/assets/readme-images/NAV%20Bar.JPG)
 
-![Navigation bar image from Cork Percussion School webite](../CPS/assets/readme-images/Footer.JPG)
+![Footer image from Cork Percussion School webite](../CPS/assets/readme-images/Footer.JPG)
 
 
 ## The Home Page
@@ -38,9 +48,9 @@ Beneath the image, we see the CPS Information section.  This gives the user info
 ## The Drum Classes Page
 This page displays the classes and times that certain drum styles are taught during the week.  
 
-![Drum classes table](../CPS/assets/readme-images/Table.JPG)
+![Drum classes table - Days and times](../CPS/assets/readme-images/Table.JPG)
 
-The overlay text continues on this page with a new drummwer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted. All of this is to give the user a more informed view of the courses and drum styles on offer.
+The overlay text continues on this page with a new drummer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted. All of this is to give the user a more informed view of the courses and drum styles on offer.
 
 ![Audio samples & style description](../CPS/assets/readme-images/Samples%20&%20Description.JPG)
 
@@ -48,14 +58,14 @@ The background is split between screen sizes.  An image of an orange drum kit is
 
 ![Background image below 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Smaller%20Screens.JPG)
 
-![Background image below 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
+![Background image above 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
 
 ## The Contact Page
 The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  These are listed as radio buttons on the form.
 
 ![User contact form](../CPS/assets/readme-images/Form.JPG)
 
-Below the form, there are 4 further boxes with contact info - Address, Phone, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummwer quote.  
+Below the form, there are 4 further boxes with contact info - Address, Phone, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummer quote.  
 
 ![Contact details and supplies info](../CPS/assets/readme-images/Contact%20Details.JPG)
 
@@ -100,9 +110,9 @@ Bugs that were discovered and fixed are as follows:
     The background and border colours were initially set to whitesmoke.  As this clashed, the border was updated to gray in keeping with other border styles.
 </ul>
 
-![HTML errors](../CPS/assets/readme-images/Initial%20HTML%20Test.JPG)
+![HTML code errors](../CPS/assets/readme-images/Initial%20HTML%20Test.JPG)
 
-![CSS errors](../CPS/assets/readme-images/Initial%20CSS%20Test.JPG)
+![CSS code errors](../CPS/assets/readme-images/Initial%20CSS%20Test.JPG)
 
 ![Error 404](../CPS/assets/readme-images/Error%20404.JPG)
 
@@ -110,7 +120,7 @@ Bugs that were discovered and fixed are as follows:
 1 bug remains on the site that we are aware of - On Safari, the audio controls do not allow the user to unmute, and so the user cannot experience the audio from each style.
 We hope that in the future we can rectify this using HTML code that is compatible with Apple products.
 
-![Safari Controls](../CPS/assets/readme-images/Safari%20Controls%20Bug.JPG)
+![Safari audio controls](../CPS/assets/readme-images/Safari%20Controls%20Bug.JPG)
 
 ## Deployment
 The site was deployed through GitHub.  The steps taken were:
