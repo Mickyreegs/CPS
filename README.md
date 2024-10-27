@@ -68,7 +68,7 @@ The Contact page encourages users to get in touch with the school and to choose 
 
 ![User contact form](../CPS/assets/readme-images/Form.JPG)
 
-Below the form, there are 4 further boxes with contact info - Address, Phone, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummer quote.  
+Below the form, there are 4 further boxes with contact info - Address, Phone & email, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummer quote.  
 
 ![Contact details and supplies info](../CPS/assets/readme-images/Contact%20Details.JPG)
 
