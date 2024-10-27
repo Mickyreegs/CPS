@@ -8,6 +8,7 @@ To begin, the site can be found at [Cork Percussion School](https://mickyreegs.g
 ## Cork Percussion School
 
 This website was designed for a percussion school in Cork, Ireland.  The aim was to create an eye catching website that will keep users engaged with the use of information, audio, and visual stimulus.  The website is user-friendly and is targeted towards drummers of all levels - Beginner, Intermediate, and Advanced.  The hope is that users generate a sense of excitement and wish to begin their drumming adventure with Cork Percussion School.  The only thing to do then is to go to the contact page and submit your details for a callback.
+As a prospective percussion student,  I want to navigate this site to learn more about the school and the classes on offer so that I can make an informed decision as to whether or not I will pursue education in percussion.
 
 ## Initial Design - Wireframe
 The initial design idea was one where an image dominates the screen but the page is easily navigated and contains the info relevant to that page.  Each page contains a large background image, with informational text and audio placed below the image.  Inspirational quotes will be layered on top of the image, along with a table of classes on the classes.html page and a form on the contact.html page.
@@ -94,7 +95,7 @@ All three pages performed well on the below browsers:
 The Mozilla Firefox audio controls are not as aesthetically pleasing as they are in Chrome and Edge.
 
 ### Bug Fixes
-Bugs that were discovered and fixed are as follows:
+Bugs that were discovered and fixed are as follows - Screenshots are added below:
 <ul>
     <li>Error 404 (HTML)</li>
     This was fixed by amending the relative filepaths in the html code pages.
