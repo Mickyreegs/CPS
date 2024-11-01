@@ -264,6 +264,16 @@ table, th, td{
     border: 2px solid gray;
 }
 
+#button{
+    background-color: rgb(67, 67, 202);
+    color: white;
+    font-size: large;
+    border: 2px solid gray;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+}
+
 #contact-info{
     background-color: rgba(211, 190, 25, 0.5);
     padding: 10px;
