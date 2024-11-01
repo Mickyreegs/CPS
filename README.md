@@ -125,8 +125,8 @@ Bugs that were discovered and fixed are as follows - Screenshots are added below
 ![Error 404](../CPS/assets/readme-images/Error%20404.JPG)
 
 ## Known Bugs
-1 bug remains on the site that we are aware of - On Safari, the audio controls do not allow the user to unmute, and so the user cannot experience the audio from each style.
-We hope that in the future we can rectify this using HTML code that is compatible with Apple products.
+1 change was made during testing - On Safari, the audio controls do not allow the user to unmute, and so the user could not experience the audio from each style.
+To rectify this, the muted option was removed from the HTML code so all users could hear the audio regardless of browser.
 
 ![Safari audio controls](../CPS/assets/readme-images/Safari%20Controls%20Bug.JPG)
 
