@@ -87,6 +87,75 @@ The CSS cose also passed the CSS validator test.  There was one warning - "Impor
 
 ![CSS validator checks](../CPS/assets/readme-images/CSS%20code%20validation%20-%20After.JPG)
 
+### Functional Testing
+<table>
+    <tr>
+        <th>Action</th>
+        <th>Expected Behaviour</th>
+        <th>Pass/Fail</th>
+    </tr>
+    <tr>
+        <td>Page URL</td>
+        <td>Deployed page to open</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>NAV Bar</td>
+        <td>NAV bar directs user to correct page</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>NAV Bar - Highlighted Page</td>
+        <td>NAV bar highlights the page the user is currently on</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>Page Responsiveness</td>
+        <td>Pages are responsive to mobile, tablet and desktop users</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>NAV Bar Menu</td>
+        <td>Menu dropdown disappears for larger screens</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>Social Media</td>
+        <td>Social media links work and open in new page</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>External Links</td>
+        <td>External website links work and open in new page</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>Audio Files</td>
+        <td>Audio controls operate correctly and play files</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>User forms - Input Fields</td>
+        <td>Input fields are marked as required and operate as expected</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>User forms - Dropdowns</td>
+        <td>Dropdown lists are marked as required and operate as expected</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>Relative Filepaths</td>
+        <td>All relative filepaths function correctly to display correct content</td>
+        <td>Pass</td>
+    </tr>
+    <tr>
+        <td>Physical Test</td>
+        <td>Website tested on users and their various devices</td>
+        <td>Pass</td>
+    </tr>
+</table>
+
 ### Browser Performance
 All three pages performed well on the below browsers:
 <ul>
