@@ -83,7 +83,7 @@ All 3 pages were put through the HTML validator tool and passed:
 
 ![HTML validator checks](../CPS/assets/readme-images/HTML%20Check%20After.JPG)
 
-The CSS cose also passed the CSS validator test:
+The CSS cose also passed the CSS validator test.  There was one warning - "Imported style sheets are not checked in direct input and file upload modes".  This was my import from Google Fonts and is an expected warning:
 
 ![CSS validator checks](../CPS/assets/readme-images/CSS%20code%20validation%20-%20After.JPG)
 
@@ -165,46 +165,43 @@ A point to note:
 </ul>
 
 ## Credits
-The following websites were used for informational purposes:
-<ul>
-    <li>Drum Set Tips</li>
-    https://drumsettips.org/bossa-nova-drum-style-latin-drum-set-beats/#:~:text=The%20Bossa%20Nova%20bass%20line,it%20as%20a%20Brazilian%20Clave.
-    <li>Wikipedia</li>
-    https://en.wikipedia.org/wiki/Funk#:~:text=Funk%20drumming%20creates%20a%20groove,of%20fills%20(as%20they%20can)
-    https://en.wikipedia.org/wiki/Jazz_drumming#:~:text=Jazz%20drumming%20is%20the%20art,and%201980s%2Dera%20Latin%20jazz.
-    https://en.wikipedia.org/wiki/Heavy_metal_drumming#:~:text=With%20roots%20in%20blues%20rock,guitar%2Dand%2Ddrum%20sound.
-    <li>BetaMonkey</li>
-    https://www.betamonkey.com/a-closer-look-at-blues-drum-loops-and-blues-drumming-styles/#:~:text=Playing%20deep%20in%20the%20pocket,exactly%20where%20the%20groove%20is.
-    <li>Stack Overflow</li>
-    https://stackoverflow.com/
-    <li>W3 Schools</li>
-    https://www.w3schools.com/
-    <li>Free Code Camp</li>
-    https://www.freecodecamp.org/
-    <li>Daisie Blog</li>
-    https://blog.daisie.com/drums-for-folk-practical-guide-expert-tips/
-    <li>X8 Drumming</li>
-    https://www.x8drums.com/blog/reggae-drumming/
-    <li>Freddy Charles Music</li>
-    https://freddycharlesmusic.com/blogs/news/rock-drumming-for-beginners-how-to-play-rock-on-drums#:~:text=One%20of%20the%20defining%20features,pulse%20that%20permeates%20the%20music.
-</ul>
+### The following websites were used for informational purposes:
 
-The following websites were used for audio and visual purposes:
-<ul>
-    <li>Wikiloops</li>
-    https://www.wikiloops.com/tracks/Drums.php?scope=2
-    <li>Font Awesome</li>
-    https://fontawesome.com/
-    <li>Google Fonts</li>
-    https://fonts.google.com/
-    <li>Favicon</li>
-    https://favicon.io/emoji-favicons/drum/
-    <li>Pexels</li>
-    https://www.pexels.com/search/drumming/
-</ul>
+[Drum Set Tips](https://drumsettips.org/bossa-nova-drum-style-latin-drum-set-beats/#:~:text=The%20Bossa%20Nova%20bass%20line,it%20as%20a%20Brazilian%20Clave.)
 
-The following projects were used as a reference guide to build this website:
-<ul>
-    <li>Love Running</li>
-    Code Institute Essentials Project
-</ul>
+[Wikipedia - Funk Drums](https://en.wikipedia.org/wiki/Funk#:~:text=Funk%20drumming%20creates%20a%20groove,of%20fills%20(as%20they%20can))
+
+[Wikipedia - Jazz Drums](https://en.wikipedia.org/wiki/Jazz_drumming#:~:text=Jazz%20drumming%20is%20the%20art,and%201980s%2Dera%20Latin%20jazz.)
+
+[Wikipedia - Heavy Metal Drums](https://en.wikipedia.org/wiki/Heavy_metal_drumming#:~:text=With%20roots%20in%20blues%20rock,guitar%2Dand%2Ddrum%20sound.)
+
+[BetaMonkey - Blues Drums](https://www.betamonkey.com/a-closer-look-at-blues-drum-loops-and-blues-drumming-styles/#:~:text=Playing%20deep%20in%20the%20pocket,exactly%20where%20the%20groove%20is.)
+
+[Stack Overflow - General Queries](https://stackoverflow.com/)
+
+[W3 Schools - General Queries](https://www.w3schools.com/)
+
+[Free Code Camp - General Queries](https://www.freecodecamp.org/)
+
+[Daisie Blog - Folk Drums](https://blog.daisie.com/drums-for-folk-practical-guide-expert-tips/)
+
+[X8 Drumming - Reggae Drums](https://www.x8drums.com/blog/reggae-drumming/)
+
+[Freddy Charles Music - Rock Drums](https://freddycharlesmusic.com/blogs/news/rock-drumming-for-beginners-how-to-play-rock-on-drums#:~:text=One%20of%20the%20defining%20features,pulse%20that%20permeates%20the%20music.)
+
+
+### The following websites were used for audio and visual purposes:
+
+[WikiLoops - Audio Tracks](https://www.wikiloops.com/tracks/Drums.php?scope=2)
+
+[Font Awesome - Header Tags](https://fontawesome.com/)
+
+[Google Fonts](https://fonts.google.com/)
+
+[Favicon - Head Icon](https://favicon.io/emoji-favicons/drum/)
+
+[Pexels - Background Images](https://www.pexels.com/search/drumming/)
+
+### The following projects were used as a reference guide to build this website:
+
+[Love Running Essentials Project](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation)
