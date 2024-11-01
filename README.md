@@ -97,6 +97,21 @@ All three pages performed well on the below browsers:
 </ul>
 The Mozilla Firefox audio controls are not as aesthetically pleasing as they are in Chrome and Edge.
 
+### Lighthouse Checks
+Lighthouse was used to test the performance of the pages.  All pages scored over 90 on all 4 headings with the exception of the classes.html mobile test.  This got 84/100 for performance.  This was due to the 8 audio files included on the page for the user experience.  It is my intention to improve this with the use of smaller files in the future.  See all results below:
+
+![Lighthouse test on mobile device for index.html](../CPS/assets/readme-images/Lighthouse%20Mobile%20Index.JPG)
+
+![Lighthouse test on desktop for index.html](../CPS/assets/readme-images/Lighthouse%20Desktop%20Index.JPG)
+
+![Lighthouse test on mobile device for classes.html](../CPS/assets/readme-images/Lighthouse%20Mobile%20Classes.JPG)
+
+![Lighthouse test on desktop for classes.html](../CPS/assets/readme-images/Lighthouse%20Desktop%20Classes.JPG)
+
+![Lighthouse test on mobile device for contact.html](../CPS/assets/readme-images/Lighthouse%20Mobile%20Contact.JPG)
+
+![Lighthouse test on desktop for contact.html](../CPS/assets/readme-images/Lighthouse%20Desktop%20Contact.JPG)
+
 ### Bug Fixes
 Bugs that were discovered and fixed are as follows - Screenshots are added below:
 <ul>
