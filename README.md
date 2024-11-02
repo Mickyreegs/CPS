@@ -15,7 +15,7 @@ As a prospective percussion student,  I want to navigate this site to learn more
 The initial design idea was one where an image dominates the screen but the page is easily navigated and contains the info relevant to that page.  Each page contains a large background image, with informational text and audio placed below the image.  Inspirational quotes will be layered on top of the image, along with a table of classes on the classes.html page and a form on the contact.html page.
 
 ### Wireframe of the index.html page
-![Wireframe image of the index.html page](../CPS/assets/readme-images/Wireframe_index.PNG)
+![Wireframe image of the index.html page](assets/readme-images/Wireframe_index.PNG)
 
 ### Wireframe of the classes.html page
 ![Wireframe image of the classes.html page](../CPS/assets/readme-images/Wireframe%20classes.PNG)
