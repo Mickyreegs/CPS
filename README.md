@@ -43,6 +43,8 @@ Upon opening the home page, you immediately see a photograph of a drum kit in bl
 
 ![Black and white image of a drum set](assets/readme-images/pexels-h-thanh-131149238-11018964.jpg)
 
+![index.html overlay text](assets/readme-images/Home%20page%20overlay%20text.JPG)
+
 Beneath the image, we see the CPS Information section.  This gives the user information and background on the school.
 
 ![CPS Info section giving info on the school and classes](assets/readme-images/CPS%20Infor%20Section.JPG)
@@ -52,7 +54,11 @@ This page displays the classes and times that certain drum styles are taught dur
 
 ![Drum classes table - Days and times](assets/readme-images/Table.JPG)
 
-The overlay text continues on this page with a new drummer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted. All of this is to give the user a more informed view of the courses and drum styles on offer.
+The overlay text continues on this page with a new drummer quote.
+
+![classes.html overlay text](assets/readme-images/Classes%20page%20overlay%20text.JPG)
+
+Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted. All of this is to give the user a more informed view of the courses and drum styles on offer.
 
 ![Audio samples & style description](assets/readme-images/Samples%20&%20Description.JPG)
 
@@ -69,9 +75,13 @@ The Contact page encourages users to get in touch with the school and to choose 
 
 ![User contact form](assets/readme-images/Form.JPG)
 
-Below the form, there are 4 further boxes with contact info - Address, Phone & email, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummer quote.  
+Below the form, there are 4 further boxes with contact info - Address, Phone & email, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page. 
 
 ![Contact details and supplies info](assets/readme-images/Contact%20Details.JPG)
+
+The overlay text continues on this page with a new drummer quote. 
+
+![contact.html overlay text](assets/readme-images/Contact%20page%20overlay%20text.JPG)
 
 The background of a snare drum with drum sticks completes the page.
 
