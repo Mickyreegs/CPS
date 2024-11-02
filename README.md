@@ -28,64 +28,64 @@ The initial design idea was one where an image dominates the screen but the page
 ### Responsive Design
 The website was designed using the Mobile First principle and enlarges based on screen size.
 
-![Am I Responive website Image revealing responsiveness across various screen sizes](../CPS/assets/readme-images/Am%20I%20Responsive.JPG)
+![Am I Responive website Image revealing responsiveness across various screen sizes](assets/readme-images/Am%20I%20Responsive.JPG)
 
 ### Consistent Navigation Bar & Footer
 The header of the site contains both the Logo and Navigation Bar, which is responsive to various screen sizes.  The footer has links to X, YouTube, Instagram & Facebook and is also consistent across the 3 pages.  The design is intuitive, allowing easy access to each page and social media site for the user, while employing a consistent design across all pages of the webite.
 
-![Navigation bar image from Cork Percussion School webite](../CPS/assets/readme-images/NAV%20Bar.JPG)
+![Navigation bar image from Cork Percussion School webite](assets/readme-images/NAV%20Bar.JPG)
 
-![Footer image from Cork Percussion School webite](../CPS/assets/readme-images/Footer.JPG)
+![Footer image from Cork Percussion School webite](assets/readme-images/Footer.JPG)
 
 
 ## The Home Page
 Upon opening the home page, you immediately see a photograph of a drum kit in black and white, which includes a quote in the overlay text.  It is an eye catching display with nicely contrasting overlay text to draw the user in. 
 
-![Black and white image of a drum set](../CPS/assets/readme-images/pexels-h-thanh-131149238-11018964.jpg)
+![Black and white image of a drum set](assets/readme-images/pexels-h-thanh-131149238-11018964.jpg)
 
 Beneath the image, we see the CPS Information section.  This gives the user information and background on the school.
 
-![CPS Info section giving info on the school and classes](../CPS/assets/readme-images/CPS%20Infor%20Section.JPG)
+![CPS Info section giving info on the school and classes](assets/readme-images/CPS%20Infor%20Section.JPG)
 
 ## The Drum Classes Page
 This page displays the classes and times that certain drum styles are taught during the week.  
 
-![Drum classes table - Days and times](../CPS/assets/readme-images/Table.JPG)
+![Drum classes table - Days and times](assets/readme-images/Table.JPG)
 
 The overlay text continues on this page with a new drummer quote.  Users get an idea of the schedule, but also of each individual drum style thanks for short descriptions and audio.  The audio enables the use of controls, and the track is initially muted. All of this is to give the user a more informed view of the courses and drum styles on offer.
 
-![Audio samples & style description](../CPS/assets/readme-images/Samples%20&%20Description.JPG)
+![Audio samples & style description](assets/readme-images/Samples%20&%20Description.JPG)
 
 The background is split between screen sizes.  An image of an orange drum kit is used for smaller devices, but this is switched to a red kit in a studio for devices of 768px and above.  This was due to the fact that the smaller image was stretching too much and did not look as good on larger screens.  It also adds another layer of design that can be appreciated by users on different screen sizes.
 
 ### Below 768px
-![Background image below 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Smaller%20Screens.JPG)
+![Background image below 768px](assets/readme-images/Drum%20Classes%20-%20Smaller%20Screens.JPG)
 
 ### Above 768px
-![Background image above 768px](../CPS/assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
+![Background image above 768px](assets/readme-images/Drum%20Classes%20-%20Larger%20Screens.JPG)
 
 ## The Contact Page
 The Contact page encourages users to get in touch with the school and to choose their preferred drum style for specialisation.  The user is required to select a style from a dropdown list.  
 
-![User contact form](../CPS/assets/readme-images/Form.JPG)
+![User contact form](assets/readme-images/Form.JPG)
 
 Below the form, there are 4 further boxes with contact info - Address, Phone & email, Opening Hours, and Supplies.  The Supplies box has a link to the Thomann website, specifically their drum page.  The overlay text continues on this page with a new drummer quote.  
 
-![Contact details and supplies info](../CPS/assets/readme-images/Contact%20Details.JPG)
+![Contact details and supplies info](assets/readme-images/Contact%20Details.JPG)
 
 The background of a snare drum with drum sticks completes the page.
 
-![Snare drum image with broken drum sticks](../CPS/assets/readme-images/pexels-abednego-241687.jpg)
+![Snare drum image with broken drum sticks](assets/readme-images/pexels-abednego-241687.jpg)
 
 ## Testing
 ### Code Validation
 All 3 pages were put through the HTML validator tool and passed:
 
-![HTML validator checks](../CPS/assets/readme-images/HTML%20Check%20After.JPG)
+![HTML validator checks](assets/readme-images/HTML%20Check%20After.JPG)
 
 The CSS cose also passed the CSS validator test.  There was one warning - "Imported style sheets are not checked in direct input and file upload modes".  This was my import from Google Fonts and is an expected warning:
 
-![CSS validator checks](../CPS/assets/readme-images/CSS%20code%20validation%20-%20After.JPG)
+![CSS validator checks](assets/readme-images/CSS%20code%20validation%20-%20After.JPG)
 
 ### Functional Testing
 <table>
@@ -169,17 +169,17 @@ The Mozilla Firefox audio controls are not as aesthetically pleasing as they are
 ### Lighthouse Checks
 Lighthouse was used to test the performance of the pages.  All pages scored over 90 on all 4 headings with the exception of the classes.html mobile test.  This got 84/100 for performance.  This was due to the 8 audio files included on the page for the user experience.  It is my intention to improve this with the use of smaller files in the future.  See all results below:
 
-![Lighthouse test on mobile device for index.html](../CPS/assets/readme-images/Lighthouse%20Mobile%20Index.JPG)
+![Lighthouse test on mobile device for index.html](assets/readme-images/Lighthouse%20Mobile%20Index.JPG)
 
-![Lighthouse test on desktop for index.html](../CPS/assets/readme-images/Lighthouse%20Desktop%20Index.JPG)
+![Lighthouse test on desktop for index.html](assets/readme-images/Lighthouse%20Desktop%20Index.JPG)
 
-![Lighthouse test on mobile device for classes.html](../CPS/assets/readme-images/Lighthouse%20Mobile%20Classes.JPG)
+![Lighthouse test on mobile device for classes.html](assets/readme-images/Lighthouse%20Mobile%20Classes.JPG)
 
-![Lighthouse test on desktop for classes.html](../CPS/assets/readme-images/Lighthouse%20Desktop%20Classes.JPG)
+![Lighthouse test on desktop for classes.html](assets/readme-images/Lighthouse%20Desktop%20Classes.JPG)
 
-![Lighthouse test on mobile device for contact.html](../CPS/assets/readme-images/Lighthouse%20Mobile%20Contact.JPG)
+![Lighthouse test on mobile device for contact.html](assets/readme-images/Lighthouse%20Mobile%20Contact.JPG)
 
-![Lighthouse test on desktop for contact.html](../CPS/assets/readme-images/Lighthouse%20Desktop%20Contact.JPG)
+![Lighthouse test on desktop for contact.html](assets/readme-images/Lighthouse%20Desktop%20Contact.JPG)
 
 ### Bug Fixes
 Bugs that were discovered and fixed are as follows - Screenshots are added below:
@@ -200,19 +200,19 @@ Bugs that were discovered and fixed are as follows - Screenshots are added below
     The background and border colours were initially set to whitesmoke.  As this clashed, the border was updated to gray in keeping with other border styles.
 </ul>
 
-![HTML code errors](../CPS/assets/readme-images/Initial%20HTML%20Test.JPG)
+![HTML code errors](assets/readme-images/Initial%20HTML%20Test.JPG)
 
-![HTML code errors on form](../CPS/assets/readme-images/HTML%20error%20dropdown.JPG)
+![HTML code errors on form](assets/readme-images/HTML%20error%20dropdown.JPG)
 
-![CSS code errors](../CPS/assets/readme-images/Initial%20CSS%20Test.JPG)
+![CSS code errors](assets/readme-images/Initial%20CSS%20Test.JPG)
 
-![Error 404](../CPS/assets/readme-images/Error%20404.JPG)
+![Error 404](assets/readme-images/Error%20404.JPG)
 
 ## Known Bugs
 1 change was made during testing - On Safari, the audio controls do not allow the user to unmute, and so the user could not experience the audio from each style.
 To rectify this, the muted option was removed from the HTML code so all users could hear the audio regardless of browser.
 
-![Safari audio controls](../CPS/assets/readme-images/Safari%20Controls%20Bug.JPG)
+![Safari audio controls](assets/readme-images/Safari%20Controls%20Bug.JPG)
 
 ## Deployment
 The site was deployed through GitHub.  The steps taken were:
@@ -222,11 +222,11 @@ The site was deployed through GitHub.  The steps taken were:
     <li>Our branch is set to "main" with "/root" as the folder</li>
 </ul>
 
-![GitHub Deployment](../CPS/assets/readme-images/Deployment.JPG)
+![GitHub Deployment](assets/readme-images/Deployment.JPG)
 
 The site can be reached at https://mickyreegs.github.io/CPS/
 
-![GitHub Deployment site](../CPS/assets/readme-images/Deployment%202.JPG)
+![GitHub Deployment site](assets/readme-images/Deployment%202.JPG)
 
 A point to note:
 <ul>
