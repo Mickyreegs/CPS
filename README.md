@@ -18,10 +18,10 @@ The initial design idea was one where an image dominates the screen but the page
 ![Wireframe image of the index.html page](assets/readme-images/Wireframe_index.PNG)
 
 ### Wireframe of the classes.html page
-![Wireframe image of the classes.html page](../CPS/assets/readme-images/Wireframe%20classes.PNG)
+![Wireframe image of the classes.html page](assets/readme-images/Wireframe%20classes.PNG)
 
 ### Wireframe of the contact.html page
-![Wireframe image of the contact.html page](../CPS/assets/readme-images/Wireframe%20contact.PNG)
+![Wireframe image of the contact.html page](assets/readme-images/Wireframe%20contact.PNG)
 
 ## General Features
 
